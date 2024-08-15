@@ -1,2 +1,0 @@
-# Comentar
-print ("Hello world!")
